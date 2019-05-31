@@ -218,6 +218,9 @@ a:hover {
     transform:translateX(-200px);
 } 
 
+html {
+  scroll-behavior: smooth;
+}
 
 
 
