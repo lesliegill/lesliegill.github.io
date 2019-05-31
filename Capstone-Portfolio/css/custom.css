@@ -23,9 +23,7 @@
 /***COVER***/
 
 .card-img {
-    -webkit-background-size: cover;
-    max-width:auto;
-    background:cover;
+    background-size: cover;
     opacity: 0.8;
 }
 
@@ -43,6 +41,7 @@
 
 .developer {
     font-size:1em;
+    margin-bottom:40px;
 }
 
 
@@ -66,6 +65,7 @@
 
 #about {
    background-color:#C8C8C8;
+   
 }
 
 .about-me {
@@ -83,6 +83,7 @@
 .icons {
     display:flex;
     justify-content: space-evenly; 
+    
 }
 
 .skills li {
@@ -133,7 +134,7 @@
 }
 
 .projects {
-    padding-top:1em;
+    padding:2.4em;
     font-size:3em;
 }
 
