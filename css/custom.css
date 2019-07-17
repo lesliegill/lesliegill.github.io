@@ -209,6 +209,11 @@ ul.icons {
 }
 
 
+.cert {
+    font-size: 1.2em;
+    color: black;
+}
+
 a:hover {
     color:grey;
 }
